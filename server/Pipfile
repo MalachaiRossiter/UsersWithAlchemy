@@ -10,6 +10,7 @@ flask-marshmallow = "*"
 marshmallow-sqlalchemy = "*"
 mysql-connector-python = "*"
 pymysql = "*"
+flask-bcrypt = "*"
 
 [dev-packages]
 
